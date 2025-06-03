@@ -25,15 +25,15 @@
   <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ---
 
-## ☁️ Learning Cloud & DevOps
+## ☁️ Learning Cloud
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ---
@@ -56,15 +56,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-- Backend architecture & design patterns  
-- System design fundamentals  
-- Algorithms & data structures (Python)  
-- Clean code & testing principles  
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-barreto-12b2ba193/)  
@@ -73,4 +64,6 @@
 
 ---
 
-> “Consistency beats motivation — I show up every day, even when it’s hard. That’s how I’ll get there.”  
+> ## 💡 *“If you put your mind to it, you can accomplish anything.”*  
+> — **Doc Emmett Brown**
+
