@@ -56,21 +56,14 @@
 
 ---
 
+
 ## 📫 Let's Connect!
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/rodrigo-barreto-12b2ba193/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rodrigobarretonunes" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:rodrigobarretonunes19@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-barreto-12b2ba193)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigobarretonunes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigobarretonunes19@gmail.com)
 
----
+
 
 > ## 💡 *“If you put your mind to it, you can accomplish anything.”*  
 > — **Doc Emmett Brown**
